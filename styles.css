@@ -1,0 +1,65 @@
+/* seksyen1 */
+
+.seksyen1{
+    background-image: url(gambar/pexels-edgars-kisuro-1488464\ \(1\).jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-sewa{
+    color: rgba(219, 5, 5, 0.763);
+}
+
+.tulisanputih{
+    color: rgb(255, 255, 255);
+}
+
+/* seksyen2 */
+
+.seksyen2{
+    background-image: url(gambar/white-paper-shopping-bag.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 5% 15% 5%;
+    text-align: center;
+}
+
+
+
+.icon{
+    color: #ffc107;
+    margin-bottom: 1rem;
+}
+
+.feature-box{
+    padding: 3%;
+}
+
+/* seksyen3 */
+
+.seksyen3{
+    
+    padding: 5%;
+}
+
+/* seksyen4 */
+
+.seksyen4{
+    background-image: url(gambar/pexels-artem-beliaikin-1036856.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 1% 20% 1%;
+}
+
+/* seksyen5 */
+.seksyen5{
+    background-image: url(gambar/empty-elegant-background-with-copy-space.jpg);
+    padding: 3%;
+}
+
+/* footer */
