@@ -1,3 +1,4 @@
+
 /* seksyen1 */
 
 .seksyen1{
@@ -44,7 +45,7 @@
 
 .seksyen3{
     
-    padding: 5%;
+    padding: 5% 0% 5%;
 }
 
 /* seksyen4 */
@@ -53,13 +54,18 @@
     background-image: url(gambar/pexels-artem-beliaikin-1036856.jpg);
     background-size: cover;
     text-align: center;
-    padding: 1% 20% 1%;
+    padding: 0% 20% 1%;
 }
 
 /* seksyen5 */
 .seksyen5{
     background-image: url(gambar/empty-elegant-background-with-copy-space.jpg);
-    padding: 3%;
+    padding: 5% 30% 5%;
 }
 
+
 /* footer */
+.footer{
+    padding: 2% 20% 2%;
+    background-color: white;
+}
